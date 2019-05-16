@@ -1,0 +1,9 @@
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\bin\Debug\DTypes.exe.config
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\bin\Debug\DTypes.exe
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\bin\Debug\DTypes.pdb
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.csprojAssemblyReference.cache
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.frmMain.resources
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.csproj.GenerateResource.cache
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.csproj.CoreCompileInputs.cache
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.exe
+C:\JulianArroyaveZ\DTypes\DTypes\DTypes\obj\Debug\DTypes.pdb
